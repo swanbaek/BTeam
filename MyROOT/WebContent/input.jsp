@@ -10,6 +10,7 @@
 		<b>Count</b> : 
 		<input type="text" name="count" class="box">
 		<button>전송</button>
+		<!-- add comment-->
 	</form>
 </div>
 
