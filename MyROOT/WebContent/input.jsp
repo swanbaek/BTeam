@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!-- input.jsp -->
-<jsp:include page="/top.jsp" />
+
 <div align="center">
 	<hr color="green" width="400">
 	<h1>CountBean Test</h1>
